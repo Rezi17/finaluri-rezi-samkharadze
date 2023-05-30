@@ -85,7 +85,7 @@ i {
 }
 
 .section_first {
-    
+
     width: 41%;
     margin-inline: auto;
     align-items: center;
@@ -136,9 +136,9 @@ h2 {
 
 /* ................................................................. */
 
-                       /* section 2 started */
+/* section 2 started */
 .section_second {
-    max-width: 100%;
+    width: 100%;
     height: 526px;
 
 }
@@ -157,9 +157,11 @@ h2 {
 
 .cards {
     width: 100%;
+
 }
 
 .text {
+    margin-top: 24px;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -168,14 +170,40 @@ h2 {
 
 
 }
-                          /* section2 done */
 
-  /* .................................................................... */
+/* section2 done */
+
+/* .................................................................... */
 
 
 
-                          /* section3 started */
+/* section3 started */
 
-/* .section3{
+.section3 {
+    padding: 96px 0;
+    width: 100%;
+    height: 922px;
+    background: #402101;
+}
 
-} */
+h3 {
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.section3_Div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-inline: auto;
+   
+    width: 63%;
+    height: 90%;
+}
+.photo{
+   width: 300px;
+}
