@@ -77,23 +77,23 @@ i {
 
 /* section1 started */
 
-/* .img_div {
+.img_div {
     background-image: url("../photos/Rectangle\ 106.svg");
     padding: 187px 188px;
     height: 720px;
 
-} */
+}
 
-/* .section_first {
+.section_first {
     
     width: 41%;
     margin-inline: auto;
     align-items: center;
 
-} */
+}
 
 
-/* h2 {
+h2 {
     display: flex;
     justify-content: center;
     margin-bottom: 16px;
@@ -102,9 +102,9 @@ i {
     line-height: 48px;
     color: #FFFFFF;
 
-} */
+}
 
-/* .section1_p {
+.section1_p {
 
     margin-bottom: 85px;
     color: #FFFFFF;
@@ -114,9 +114,9 @@ i {
     text-align: center;
 
 
-} */
+}
 
-/* .fr_button {
+.fr_button {
 
     display: block;
     margin-inline: auto;
@@ -126,11 +126,11 @@ i {
 
 
     border-radius: 20px;
-} */
+}
 
-/* .shop_now_span {
+.shop_now_span {
     color: #FFFFFF;
-} */
+}
 
 /* section1 done */
 
