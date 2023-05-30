@@ -1,0 +1,181 @@
+.conteiner {
+    max-width: 1920px;
+    width: 100%;
+
+}
+
+/* header start */
+header {
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+    padding: 26px 13%;
+    position: absolute;
+    width: 100%;
+    height: 96px;
+    background: rgba(213, 144, 110, 0.52);
+    backdrop-filter: blur(5px);
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+li {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.active {
+    color: rgba(213, 144, 110, 1);
+
+}
+
+.noactive {
+    color: #FFFFFF;
+    ;
+}
+
+h1 {
+
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+span {
+    color: rgba(213, 144, 110, 1);
+
+}
+
+.HEADER_sign {
+
+    display: flex;
+    gap: 16px;
+}
+
+.signin {
+    color: #FFFFFF;
+}
+
+i {
+    color: #FFFFFF;
+}
+
+/* header done */
+
+
+
+
+
+/* .................................................. */
+
+
+
+/* section1 started */
+
+/* .img_div {
+    background-image: url("../photos/Rectangle\ 106.svg");
+    padding: 187px 188px;
+    height: 720px;
+
+} */
+
+/* .section_first {
+    
+    width: 41%;
+    margin-inline: auto;
+    align-items: center;
+
+} */
+
+
+/* h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+
+} */
+
+/* .section1_p {
+
+    margin-bottom: 85px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+
+} */
+
+/* .fr_button {
+
+    display: block;
+    margin-inline: auto;
+    background-color: transparent;
+    border: solid #d5906e;
+    padding: 19px 117px;
+
+
+    border-radius: 20px;
+} */
+
+/* .shop_now_span {
+    color: #FFFFFF;
+} */
+
+/* section1 done */
+
+/* ................................................................. */
+
+                       /* section 2 started */
+/* .section_second {
+    max-width: 100%;
+    height: 526px;
+
+} */
+
+/* .sectioon2_div {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-inline: auto;
+    width: 50%;
+    height: 526px;
+    padding: 10% 3%;
+
+
+} */
+
+/* .cards {
+    width: 100%;
+} */
+
+/* .text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #B53B1B;
+
+
+} */
+                          /* section2 done */
+
+  /* .................................................................... */
+
+
+
+                          /* section3 started */
+
+/* .section3{
+
+} */
